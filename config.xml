@@ -101,7 +101,7 @@
         <variable name="CONTACTS_USAGE_DESCRIPTION" value="To add contact" />
     </plugin>
 
-    <plugin name=”SpeechRecognizer” value=”com.demo.SpeechRecognizer”/>
+    <plugin name=”SpeechRecognizer” value=”com.phonegap.demo.SpeechRecognizer”/>
     
     <gap:plugin name="cordova-plugin-camera" source="npm" spec="2.4.1" />
     <gap:plugin name="cordova-plugin-device" source="npm" />
@@ -119,9 +119,9 @@
     <gap:plugin name="cordova-open-native-settings" source="npm" />
     <gap:plugin name="cordova-plugin-datepicker" source="npm" />
     <gap:plugin name="cordova-plugin-screen-orientation" source="npm" />
-    <!--speech recognition plugin -->
+    <!--speech recognition plugin 
     <gap:plugin name="cordova-plugin-speechrecognition" source="npm" />
-
+    -->
 
     <!-- ios sms plugin -->
     <!--<plugin spec="https://github.com/DevendraSinghNagar/cordova-sms-all-devices-plugin.git" source="git" />-->

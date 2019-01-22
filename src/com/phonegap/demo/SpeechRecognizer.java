@@ -17,7 +17,7 @@
 	   under the License.
 */
 
-package com.manueldeveloper;
+package com.demo;
 
 import java.util.ArrayList;
 
