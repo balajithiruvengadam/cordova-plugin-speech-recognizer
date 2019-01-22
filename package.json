@@ -17,7 +17,7 @@
 		"recognizer",
 		"recognition"
 	],
-	"author": "ManuelDeveloper",
+	"author": "Balaji",
 	"license":"Apache 2.0",
 	"bugs":{
 		"url":"https://github.com/balajithiruvengadam/cordova-plugin-speech-recognizer/issues"
